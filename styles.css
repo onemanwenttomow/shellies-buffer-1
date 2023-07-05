@@ -1,0 +1,14 @@
+body {
+  background-color: hotpink;
+}
+
+.card {
+  background-color: royalblue;
+  margin: 16px 0;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.read {
+  background-color: grey;
+}
