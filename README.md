@@ -1,3 +1,7 @@
+# Buffer Session
+
+Questions gathered from scrumlr board. Plus code we wrote to try and answer them.
+
 ## ASYNC and AWAIT
 
 - Another refresher on Async and Fetch would be helpful. Thank you.
